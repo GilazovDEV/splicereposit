@@ -25,6 +25,10 @@ body {
   margin-right: 20px;
 }
 
+.nav-link:hover {
+  color: #fff;
+}
+
 .btn-login {
   font-family: "Roboto";
   font-style: normal;
